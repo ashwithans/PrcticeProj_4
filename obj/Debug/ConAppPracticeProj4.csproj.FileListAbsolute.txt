@@ -1,0 +1,7 @@
+C:\Users\Ashwitha\Desktop\Practice Projects\ConAppPracticeProj4\ConAppPracticeProj4\bin\Debug\ConAppPracticeProj4.exe.config
+C:\Users\Ashwitha\Desktop\Practice Projects\ConAppPracticeProj4\ConAppPracticeProj4\bin\Debug\ConAppPracticeProj4.exe
+C:\Users\Ashwitha\Desktop\Practice Projects\ConAppPracticeProj4\ConAppPracticeProj4\bin\Debug\ConAppPracticeProj4.pdb
+C:\Users\Ashwitha\Desktop\Practice Projects\ConAppPracticeProj4\ConAppPracticeProj4\obj\Debug\ConAppPracticeProj4.csproj.AssemblyReference.cache
+C:\Users\Ashwitha\Desktop\Practice Projects\ConAppPracticeProj4\ConAppPracticeProj4\obj\Debug\ConAppPracticeProj4.csproj.CoreCompileInputs.cache
+C:\Users\Ashwitha\Desktop\Practice Projects\ConAppPracticeProj4\ConAppPracticeProj4\obj\Debug\ConAppPracticeProj4.exe
+C:\Users\Ashwitha\Desktop\Practice Projects\ConAppPracticeProj4\ConAppPracticeProj4\obj\Debug\ConAppPracticeProj4.pdb
